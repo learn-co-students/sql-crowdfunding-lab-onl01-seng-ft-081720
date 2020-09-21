@@ -1,0 +1,1 @@
+sqlite3 lab_database.db < ./lib/create.sql
